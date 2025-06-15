@@ -1,0 +1,13 @@
+{
+  "name": "ninebot-sign",
+  "version": "1.0.0",
+  "description": "九号出行自动签到脚本",
+  "main": "sign_ninebot.js",
+  "scripts": {
+    "start": "node sign_ninebot.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.2",
+    "moment": "^2.29.4"
+  }
+} 
